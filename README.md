@@ -23,7 +23,7 @@ Just a game of add and even number of things
                     "samples": [
                         "tell me",
                         "tell me about odd even fun",
-                        "odd even fun"                    ]
+                        "odd even  is fun"                    ]
                 }
             ],
             "types": []
