@@ -3,7 +3,7 @@ Just a game of add and even number of things
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "ducs coding club",
+            "invocationName": "odd even ",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
@@ -22,8 +22,8 @@ Just a game of add and even number of things
                     "slots": [],
                     "samples": [
                         "tell me",
-                        "tell me about ducs coding club",
-                        "ducs coding club"                    ]
+                        "tell me about odd even fun",
+                        "odd even fun"                    ]
                 }
             ],
             "types": []
